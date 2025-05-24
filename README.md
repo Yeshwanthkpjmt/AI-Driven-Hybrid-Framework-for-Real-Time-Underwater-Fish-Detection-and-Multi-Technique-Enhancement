@@ -40,3 +40,8 @@ The comparison of 3 algorithm suing our model:-
 | **F1-Score**    | 0.75             | 0.71 – 0.73      | 0.14 – 0.19      |
 | **FPS (Image)** | 2.79 – 3.27      | < 0.3            | 0.15 – 0.24      |
 | **FPS (Video)** | 5.63 – 6.19      | < 0.3            | 0.15 – 0.24      |
+
+
+This project, including all code, images, and data, is protected and may not be used, reproduced, or distributed without explicit permission from Yeshwanth.  
+Unauthorized use for personal or commercial gain is strictly prohibited.  
+For permissions, contact yeshwanthkpjmt@gmail.com — violations may result in legal consequences.
