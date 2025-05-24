@@ -42,6 +42,21 @@ The comparison of 3 algorithm suing our model:-
 | **FPS (Video)** | 5.63 – 6.19      | < 0.3            | 0.15 – 0.24      |
 
 
-This project, including all code, images, and data, is protected and may not be used, reproduced, or distributed without explicit permission from Yeshwanth.  
-Unauthorized use for personal or commercial gain is strictly prohibited.  
-For permissions, contact yeshwanthkpjmt@gmail.com — violations may result in legal consequences.
+📜 LICENSE:-
+
+⚠️ Strict Usage Policy
+
+🔒 This project and all its contents — including **code**, **images**, **data**, and **results** — are **fully protected**.
+
+You **MAY NOT**:
+- Reuse, reproduce, modify, or redistribute any part of this project.
+- Use it for **personal**, **academic**, or **commercial** gain **without written consent** from the author.
+
+💼 Unauthorized commercial use will lead to **legal action**.
+
+📧 Contact for Permissions
+To request permission for use, contact:  
+**👉 yeshwanthkpjmt@gmail.com**
+
+---
+
