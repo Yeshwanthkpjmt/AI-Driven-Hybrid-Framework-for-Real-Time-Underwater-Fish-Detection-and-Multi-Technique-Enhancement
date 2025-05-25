@@ -58,5 +58,3 @@ You **MAY NOT**:
 To request permission for use, contact:  
 **👉 yeshwanthkpjmt@gmail.com**
 
----
-
